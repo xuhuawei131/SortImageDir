@@ -3,7 +3,7 @@ package com.xuhuawei.sid;
 import java.io.*;
 
 public class Main {
-    private static final String rootFile="F:\\小米6相册";
+    private static final String rootFile="E:\\ImageBackup";
     private static final int MAX_PIC_COUNT=500;
     private static final int MAX_ARRAY_SIZE=10240;
     public static void main(String[] args) {
